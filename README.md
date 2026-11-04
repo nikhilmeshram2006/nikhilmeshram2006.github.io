@@ -79,24 +79,6 @@ A lightweight calculator featuring everyday mathematical operations and a separa
 Ballarpur Institute of Technology  
 2024 – Present · Currently pursuing third year
 
-## Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/nikhilmeshram2006/nikhilmeshram2006.github.io.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd nikhilmeshram2006.github.io
-   ```
-
-3. Open `index.html` in your browser.
-
-No additional installation is required.
-
 ## Connect With Me
 
 - **GitHub:** [nikhilmeshram2006](https://github.com/nikhilmeshram2006)
