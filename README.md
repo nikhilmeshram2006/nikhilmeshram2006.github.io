@@ -49,6 +49,10 @@ This portfolio is a place to showcase my projects, technical skills, education, 
 
 ## Projects
 
+### f1 telemetry analyzer
+Python-based F1 telemetry comparison and visualization using OpenF1.
+[view live project](https://github.com/nikhilmeshram2006/f1-telemetry-analyzer)
+
 ### SHOREKEEPER
 An online clothing storefront with product browsing, product details, shopping cart, and checkout functionality.
 
